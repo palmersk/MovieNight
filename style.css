@@ -1,0 +1,65 @@
+/* GO PAGE CSS 
+*/
+
+/* Body CSS
+*/
+body {
+    background-color: black;
+}
+p {
+    color: white;
+    text-align: center;
+    padding: 20px 0px 0px 0px;
+}
+ul {
+    color: white;
+    text-align: center;
+    padding: 0px 8px 0px 0px;
+}
+
+/* BOXES TO HOLD DATA
+*/
+.time-box {
+    width: 300px;
+    height: 70px;
+    border: 1px solid #6200EE; 
+    margin: 15px;
+}
+.theatre-box {
+    width: 300px;
+    height: 70px;
+    border: 1px solid #6200EE; 
+    margin: 15px;
+}
+.location-box {
+    width: 300px;
+    height: 100px;
+    border: 1px solid #6200EE; 
+    margin: 15px;
+}
+.user-list-box {
+    width: 300px;
+    height: 350px;
+    border: 1px solid #6200EE;
+    margin: 15px;
+}
+/* .movie-box {
+    width: 700px;
+    height: 635px;
+    border: 1px solid #6200EE;
+    margin: 15px;
+} */
+
+/* CSS FOR MOVIE IMAGE
+*/
+.card {
+background-color: #6200EE;
+color: white;
+margin: 15px;
+}
+.card-text {
+    text-align: left;
+}
+.card-title {
+    text-align: lext;
+}
